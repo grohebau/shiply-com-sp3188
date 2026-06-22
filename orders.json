@@ -1,0 +1,47 @@
+{
+  "SE481527973DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Gross, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Julian Maximilian Stürzbecher, Fruchtstraße 4, 40223 Düsseldorf, Deutschland",
+    "price": "7.700,00 €",
+    "description": "Hersteller: Kawasaki<br>Typ: Z900SE ABS<br>Fahrgestelnummer: JKAZR900FFA076483<br>Erstzulassung: 24.05.2024<br>KM laut Vorbesitzer: 6.282 km<br>Leistung: 102 kW (139 PS)<br>Hubraum: 948 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Julian Maximilian Stürzbecher<br>Niersstraße 70a<br>41189 Mönchengladbach<br>Deutschland<br>Telefon: +49 163 7594069",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "22.06.2026",
+    "deliveryDate": "25.06.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Niersstraße 70a",
+      "postal_code": "41189",
+      "city": "Mönchengladbach",
+      "country": "Deutschland",
+      "lat": "51.113642578411216",
+      "lng": "6.406977112652263"
+    }
+  }
+}
